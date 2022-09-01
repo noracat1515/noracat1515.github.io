@@ -4,7 +4,7 @@
 	const open = document.getElementById('open');
 	const pay = document.getElementById('pay');
 	const modal = document.getElementById('modal');
-	const filter = document.getElementById('filetr');
+	const filter = document.getElementById('filter');
 
 	open.addEventListener('click', () => {
     modal.classList.remove('hidden');
